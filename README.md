@@ -12,13 +12,5 @@ This project has four major parts :
 4. templates - This folder contains the HTML template to allow user to enter employee detail and displays the predicted employee salary.
 
 ### Running the project
-1. Ensure that you are in the project home directory. Create the machine learning model by running below command -
-```
-python model.py
-```
-This would create a serialized version of our model into a file model.pkl
-
-2. Run app.py using below command to start Flask API
-```
-python app.py
-```
+If you want to view the deployed model, click on the following link:
+Deployed at:  https://salaryprediction-anvesh-api.herokuapp.com/
